@@ -1,0 +1,15 @@
+DevOps
+Web development
+Back-end development
+Front-end development
+Linux System Administration
+Nginx
+Go
+Python
+PHP
+MernStack
+Wordpress
+API
+Meanstack
+PostgreSQL
+

@@ -1,0 +1,38 @@
+I am CTO of product and data engineering agency, my personal knowledge domain focused on high efficient architecture, data engineering, Ml and DevOps. For the last 7 years only at Upwork, I have successfully completed more than 100 projects in this field.
+
+For 10 years we provide full range services related to architecture, Devops, data science, web and software development. If you want to create new product or scale existing solution strating from integrations that seamlessly enrich client data up to highly-loaded web applications that utilize the best AI techniques, or need architect/devops support we definitely good match.
+
+Over the last 4 years, we have completed 170+ projects for startups, SMEs, and Large Enterprises (5 clients from Fortune Globe 500).
+
+
+SERVICES:
+
+✅ Web development
+✅ Data Science and Advanced Analytics
+✅ ETL pipelines and API integration/development
+✅ High-loaded scraping
+✅ Data Insights and Forecasting
+✅ Data Visualization and Custom Dashboards
+✅ Retail and eComm Automation
+✅ DevOps
+
+Core Stack:
+
+Web Development:
+Front-End - React.JS | Bootstrap | Html | CSS | JavaScript | jQuery
+Back-End - Python | Django Rest Framework
+
+Data Science and Machine Learning:
+Python | Tensorflow | IBM Watson | Google, Facebook and AWS products | NLTK | Pandas | Numpy | Scikit-learn
+
+Cloud-providers:
+AWS | GCP | Azure
+
+DevOps:
+Architecture| Deployment| CI/CD | Monitoring/Log coverage | Security check-up | Cost optimisation
+
+We use the Agile approach to ensure great products delivery. As our benefits, we provide the guarantee, NDA signing, and post-service for delivered products.
+
+
+Want to work together?
+I’d love to hear from you!

@@ -1,0 +1,51 @@
+
+Experienced DevOps & Fullstack (expertise in Go | Python | JS | PHP) Ninja
+
+
+
+🥇 100% Client Satisfaction
+🥇 Fluent English;
+
+🌟 Programming Languages : Golang, Python, Javascript, PHP
+🌟 FullStack
+    ✔ Front-end : 
+    🔹HTML5, CSS3/SASS/LESS/Stylus/Bootstrap/Tailwind Css
+    🔹Frameworks : Next.js, Nuxt.js,React.js, Vue.js,  
+                   Svelte,Ember.js
+    🔹Other: Redux, vuex, responsive web design, 
+              interactive user interface
+    ✔ Back-end
+    🔹Golang
+    🔹Python(Django /Flask/ Rest api)
+    🔹Node.js(Express.js/EJS/NestJs)
+    🔹PHP(Laravel, Symfony)
+    🔹RESTful APIs and API Integration
+    ✔ Database
+         PostgreSQL, MySQL, GraphQL, MongoDB, Redis, Elasticsearch
+🌟 DevOps
+   CI/CD, Kubernetes, Docker, Gitlab, Jenkins, AWS, Azure
+🌟 Linux System
+   OpenVPN, LDAP, Odoo, Terraform, Ansible, Bash
+🌟 Web Servers
+   Nginx,  Apache
+🌟 Source code management
+   Github, Bitbucket, SVN
+
+👉AVAILABLE NOW👉
+I am a highly skilled computer science graduate with an extensive 9-year background in software development. My primary expertise lies in Back-end development expertise in Go, Python, JS, and NodeJs, where I have dedicated 8 years honing my skills. Alongside, I bring 5 years of hands-on experience in DevOps, specializing in CI/CD, Jenkins, Kubernetes, Docker, and AWS. With a solid foundation of 4 years in javascript frameworks, I am well-equipped to tackle various software development challenges.
+My proficiency in javascript frameworks extends to 6 years, allowing me to contribute to the front-end development of projects with a keen understanding of user experience and interface design.
+I am enthusiastic about taking on new challenges and contributing to innovative projects. Please don't hesitate to reach out to me anytime. I'm more than happy to assist!
+Elevate your Enterprise or Startup projects with premier Full-stack Software Development and Data Engineering/Science services. As a seasoned expert in seamlessly integrating frontend and backend solutions, I offer a comprehensive skill set to enhance your digital infrastructure and data analytics capabilities.
+
+✌Why Choose Me✌
+🔹Proven track record of successfully leading and delivering complex projects.
+🔹Deep expertise in Golang, PHP, Python, DevOps, and javascript frameworks, offering a comprehensive skill set for end-to-end development.
+🔹Strong commitment to innovation, evident in the creation of unique solutions like the loan management system and renewable energy system.
+🔹Adept at collaborating with cross-functional teams and ensuring project success through effective communication and leadership.
+
+⌚I'm looking forward to long-term relationships with clients and I possess a client-oriented and result-driven attitude.
+I hope to have a great start and establish a good relationship with you on success and thank you for taking the time to visit my profile, I am excited to discuss how I can contribute to the success of your project!
+
+👋Partner with me to leverage these advanced technological skills and drive your enterprise to the forefront of innovation and efficiency. Let's create something remarkable together.🔥
+
+Best regards.

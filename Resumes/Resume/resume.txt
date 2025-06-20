@@ -1,0 +1,44 @@
+
+-fullstack Over view-----------
+Analytical, solutions-oriented Full Stack software development professional with extensive experience driving complex, 
+large-scale technical projects covering software/database/network development, product implementation, and technical support. 
+Special expertise in assessing risk and translating innovative ideas into technology solutions.
+
+
+-devops Over view
+Dedicated DevOps Engineer with [X] years of experience in designing, implementing, and maintaining scalable infrastructure solutions. 
+Proficient in automating deployment, scaling, and management of cloud-based applications and systems. 
+Adept at collaborating with cross-functional teams to streamline processes, enhance efficiency, and drive continuous improvement. 
+Skilled in utilizing cutting-edge technologies to optimize development workflows and ensure seamless integration between development and operations teams.
+
+
+
+-experience
+
+Full Stack Developer & DevOps Engineer | Patient IQ | Chicago, IL
+
+Intern Full Stack Developer | 2018-2019
+
+As an intern at Patient IQ, I collaborated with senior developers to gain practical experience in web application development. I contributed to the implementation of a user authentication module using React.js, which served as a foundational component for enhancing the security and user experience of our applications. This project involved leveraging JavaScript frameworks and libraries to implement authentication workflows, laying the groundwork for future development efforts.
+
+Junior Full Stack Developer | 2019-2021
+
+Upon transitioning to a junior role, I took on increased responsibilities in developing and maintaining web applications at Patient IQ. One notable project involved the integration of a real-time data visualization dashboard using React.js and D3.js. By leveraging these technologies, we empowered stakeholders with actionable insights into key metrics and KPIs, enabling data-driven decision-making and enhancing the value proposition of our products.
+
+Additionally, I collaborated with senior developers to refactor and optimize our codebase, implementing best practices for performance optimization and code maintainability. Through these efforts, we achieved significant improvements in application responsiveness and scalability, resulting in a smoother user experience and increased customer satisfaction.
+
+Senior Full Stack Developer | 2021-2023
+
+In my role as a senior developer, I led the development of complex web applications and played a key role in driving technical initiatives at Patient IQ. One major project involved the implementation of CI/CD pipelines using Jenkins and Docker. By automating the testing, integration, and deployment processes, we significantly reduced deployment times and increased deployment frequency, enabling us to deliver new features to market faster and more reliably.
+
+Furthermore, I spearheaded the migration of our legacy on-premises infrastructure to modern cloud-based solutions, leveraging AWS services such as EC2, S3, and RDS. This migration initiative resulted in improved scalability, reliability, and cost efficiency for our infrastructure, positioning Patient IQ for future growth and innovation in the cloud.
+
+Lead Full Stack Developer / DevOps Engineer | 2023-2024
+
+In my final role at Patient IQ, I transitioned into a leadership position where I oversaw both development and DevOps initiatives. One of the key accomplishments during this period was the implementation of a microservices architecture using Kubernetes. By breaking down our monolithic applications into smaller, more manageable services, we achieved greater scalability, fault tolerance, and agility in our development processes.
+
+Additionally, I led the adoption of DevOps best practices, including infrastructure as code (IaC) using Terraform and configuration management with Ansible. These practices enabled us to automate infrastructure provisioning and management, reducing manual effort and minimizing the risk of configuration drift.
+
+Overall, my tenure at Patient IQ allowed me to make significant technical contributions across both full stack development and DevOps engineering domains, driving innovation and delivering value to the organization through the adoption of modern technologies and best practices.
+
+

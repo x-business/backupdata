@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am excited about the opportunity to contribute to your organization, particularly due to its alignment with my background in DevOps engineering and cloud infrastructure management. With over nine years of experience in this field, I have honed my skills in automation and the deployment of innovative solutions, which I am eager to bring to your dynamic team.
+
+During my time as a DevOps Engineer at Preservica, I engaged extensively with AWS, Ansible, Terraform, and other tools to build and deploy sophisticated software solutions. My efforts have greatly enhanced my capability to design and manage robust, secure cloud infrastructures that maximize both performance and reliability.
+
+While serving as a Lead DevOps Consultant at Cloudreach, I led the development of an advanced data verification pipeline utilizing Python, Cloud Run, Pub/Sub, Terraform, and Gitlab CI. This role expanded my expertise in CI/CD practices and highlighted my ability for strategic problem solving and driving innovation.
+
+At ITG, I was instrumental in redefining the CI/CD processes for microservices, aiding in the transition of legacy applications to Kubernetes, and managing multi-cloud environments. My experiences here reinforced my adaptability and commitment to technological excellence.
+
+I am keen to join a team that prizes creativity, continual improvement, and a drive for technological advancement. I am particularly inspired by environments that challenge conventional approaches and promote professional development and innovation.
+
+Thank you for considering my application. I am looking forward to the possibility of discussing how my experience and skills could be beneficial to your team’s projects and initiatives.
+
+Best regards,
+
+Sakib Obaidhur Rahman

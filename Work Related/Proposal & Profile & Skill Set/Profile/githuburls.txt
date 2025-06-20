@@ -1,0 +1,5 @@
+//golang fullstack
+https://github.com/ericmdantas/generator-ng-fullstack   
+https://github.com/livebud/bud
+https://github.com/wzslr321/flutter_web_fullstack_boileplate
+https://github.com/SabariVig/fullstack-grpc

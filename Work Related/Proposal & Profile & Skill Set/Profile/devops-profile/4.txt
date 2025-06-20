@@ -1,0 +1,23 @@
+I am professional Full Stack Developer with a diverse skill set and a passion for creating exceptional web applications. With extensive experience in:
+
+HTML
+CSS
+JavaScript
+Bootstrap
+Typescript
+Saas
+Angular
+Angular Material
+React
+Flutter / Dart
+PHP
+Laravel
+Python
+Node.js
+Postgress
+MongoDB
+MySQL
+
+I am well-equipped to handle a wide range of development projects.
+
+Whether you need a responsive website, a dynamic web application, or a custom software solution, I am here to help bring your ideas to life. Let's collaborate and create something extraordinary together. Feel free to reach out to discuss your project requirements and how I can contribute to its success.

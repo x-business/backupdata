@@ -1,0 +1,45 @@
+I am a Top Rated Plus AWS specialist that is 6 times certified by Amazon Web Services.
+
+My certifications are:
+-Aws certified solutions architect
+-Aws certified security specialist
+-Aws certified advanced networking specialist
+-Aws certified sysops administrator
+-Aws certified devops professional
+
+I specialize in providing full-cycle cloud services for businesses all over the world. My team is also certified by Amazon Web Services and Microsoft. Our clients are represented by companies from startups to enterprises that belong to industries, such as ecommerce and retail, finance and banking, healthcare, gaming, media and entertainment, SaaS, insurance, etc.
+
+My team and I architect and build highly secure, scalable, available, stable, and cost-efficient cloud infrastructures with the help of AWS and Azure. Our mission is to increase clients' profit with the help of high-quality cloud solutions and optimize their resources.
+
+Services I provide:
+- AWS infrastructure from scratch
+- Migration to AWS
+- AWS security services
+- AWS infrastructure support
+- AWS DevOps services
+- AWS consulting services
+- Kubernetes consulting and support
+- Load and performance testing
+
+Clients choose me because of the results they receive from my work. Here are just a few of them:
+- Secure and PCI DSS/HIPAA/NIST compliant systems
+- No security breaches due to correct initial configurations and continuous monitoring
+- AWS infrastructure cost optimization up to 75%
+- Speeding up websites by 43%
+- Application uptime increase to 99.99%
+- Handling 50 times higher customer flow during holiday and season sales
+- No system breakdowns due to continuous monitoring and support
+
+Review a few cases of my clients:
+
+MAKEUP. #1 cosmetics store in Europe.
+I moved the marketplace to the AWS cloud and currently help them handle 1.5 PB of traffic each month. As for now, the system performs great during x30 traffic spikes during sale seasons, and the website’s uptime is 99.98%.
+
+Ubisoft. A famous game producer.
+I designed and implemented a highly scalable, secure, and cost-effective cloud infrastructure hosted on AWS. As a result, GPG successfully handles 50M+ users daily.
+
+The following client review describes my attitude to work and what you can expect from our cooperation:
+
+“We are an agency that works with Fortune 500 clients on a daily basis. Alex is one of the most experienced and easy to work with tech freelancers I have worked with in 15+ years. Quick in replies, easy to understand, proactive with his activities, responsible, and extremely attentive to details from day 1. I would highly recommend you, Alex, as a specialist to perform the great result for you.”
+
+Feel free to contact me on tasks of any complexity that are related to AWS, cloud security, and DevOps, and I’ll do my best to help you.

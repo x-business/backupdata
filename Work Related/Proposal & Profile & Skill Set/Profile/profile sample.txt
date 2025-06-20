@@ -1,0 +1,235 @@
+/////////////////////////////////////////////////////////////////////////////////
+Senior Golang Developer
+$30.00/hr
+**Title:**
+Experienced Computer Science Graduate | Golang Specialist | DevOps Expert | React Developer
+
+**Overview:**
+Greetings! I am a highly skilled computer science graduate with an extensive 9-year background in software development. My primary expertise lies in Golang, where I have dedicated 8 years honing my skills. Alongside, I bring 5 years of hands-on experience in DevOps, specializing in CI/CD, Kubernetes, Docker, and AWS. With a solid foundation of 4 years in React, I am well-equipped to tackle a variety of software development challenges.
+
+**Key Skills:**
+- **Programming Languages:** Golang, JavaScript (React)
+- **DevOps:** CI/CD, Kubernetes, Docker, AWS
+- **Architecture:** Microservices, IoT Backend Development
+- **Project Leadership:** Successfully led projects in IoT backend development, microservices architecture, and e-commerce payment services.
+- **Innovations:** Developed a loan management system and a renewable energy system with smart metering capabilities.
+
+**Professional Experience:**
+Over the course of my career, I have demonstrated the ability to lead successful projects in IoT backend development, microservices architecture, and e-commerce payment services. My proficiency extends to creating innovative solutions such as a loan management system and a renewable energy system focused on smart metering.
+
+**DevOps Expertise:**
+In the realm of DevOps, I excel in implementing robust CI/CD pipelines, orchestrating containerized applications with Kubernetes, utilizing Docker for efficient deployment, and leveraging the power of AWS to create scalable and reliable infrastructure.
+
+**React Development:**
+My proficiency in React extends to 4 years, allowing me to contribute to the frontend development of projects with a keen understanding of user experience and interface design.
+
+**Projects:**
+- *IoT Backend Development:* Led a team to successfully implement an IoT backend solution, demonstrating my expertise in handling the complexities of interconnected devices.
+
+- *Microservices Architecture:* Spearheaded the development of a microservices architecture, showcasing my ability to design scalable and modular systems.
+
+- *E-commerce Payment Services:* Successfully delivered a robust e-commerce payment service, ensuring secure and seamless transactions.
+
+- *Innovative Solutions:* Engineered a loan management system and a renewable energy system with smart metering capabilities, highlighting my commitment to innovation and problem-solving.
+
+**Why Choose Me:**
+- Proven track record of successfully leading and delivering complex projects.
+- Deep expertise in Golang, DevOps, and React, offering a comprehensive skill set for end-to-end development.
+- Strong commitment to innovation, evident in the creation of unique solutions like the loan management system and renewable energy system.
+- Adept at collaborating with cross-functional teams and ensuring project success through effective communication and leadership.
+
+I am enthusiastic about taking on new challenges and contributing to innovative projects. Let's discuss how I can bring my skills and experience to your team!
+////////////////////////////////////////////////////////////////////////////////
+Full Stack Go Golang & Python & Node Web Developer
+$10.00/hr
+I spent the greater part of the last 5 years working on web development to help businesses and entrepreneurs provide services that set them apart from their competitors.
+The 'do more with less' approach I take in designing solutions aims to empower clients to achieve higher levels of profitability, recapture time and resources previously consumed by inefficiency, and invest those gains in any way they see fit.
+
+My Skillset (Not Limited To):
+
+- Golang, Rest API, gRPC, RabbitMQ in Mirco Service Architecture.
+- MySQL, PostgresSQL, MongoDB, FirebaseDB, DynamoDB, AzureDB
+- Payment gateways integration (Stripe, Paypal, Recurly)
+- Source code management - Github, Bitbucket, SVN
+- HTML5, CSS3/SASS/LESS/Stylus, Twitter Bootstrap
+- Angular+2/ngrx /Angular Material/Vue.js/vuex/React/Redux
+- Node.js/Express.js/EJS, Laravel framework
+- python Django/ Rest api
+- DevOps Docker K8s Github Actions
+- - Real-Time WebSocket APIs & SignalR
+- Linux and Unix System Administration
+- AWS, Digital Ocean, Heroku Azure Google Cloud
+- Webpack, Gulp, Grunt
+- Jasmine, Mocha, Chai, Enzyme
+
+I'm looking forward to long term relationship.
+Hope to have a great start and establish good relationship with you on success
+Best regards.
+Ahmed
+///////////////////////////////////////////////////////////////////////////////////////
+Fullstack Go/PHP/React Developer & Kubernetes Cloud engineer
+$50.00/hr
+I am Germany base professional Software developer with over 10 years working experience in automotive industry and telecommunication. My key skills and relevant experience include:
+- Go/Golang development of network/web applications: ca 6 years
+- DevOps experience with Docker/Kubernetes/Helm: 5 years
+- Designing Software architecture, integration of application code with third-party tools in Hybrid sync (GRPC/REST) and async (Kafka, MQTT, RabbitMQ) Micro Services architecture 3 years
+- Web-development with PHP/Symfony/Doctrine/MySQL/PostresSQL: 10 years
+- Application deployment in Cloud environments: Azure 3 years, AWS 5 years, GPG 6 months
+
+GoLang | Python | Javascript | C# | VB
+$40.00/hr
+🏆Top Rated Plus | 0.5% of Upwork
+💯% Job Success Score
+🌟5.00 Rated
+
+🌟 Intro:
+Greetings! If you're on a quest for a developer who blends high-impact solutions with a dash of humor, look no further! I’m not just your average techie; I’m the secret weapon to propel your business into the stratosphere. My expertise lies in transforming startups and industry giants with custom-crafted digital solutions.
+
+📚 Qualifications:
+Boasting a First-Class University Degree, my arsenal is packed with a variety of programming languages like C#, Golang, PHP, VB, JavaScript, Python, and SQL. I thrive on unraveling complex software puzzles and delivering results with a smile, all while working in the UK time zone for seamless collaboration.
+
+🚀 Let's Collaborate:
+I'm more than just a developer; I'm a story-teller in code, ready to dive deep into your unique business narrative. Eager to understand your distinct needs, I'm all set to craft solutions that don’t just tick the boxes but add a spark of creativity and fun. Let's connect and elevate your company's story with a blend of top-notch development skills and a sense of humor that's sure to keep things interesting!
+
+//////////////////////////////////////////////////////////
+AWS | Kubernetes | Linux System | Python | Golang
+$20.00/hr
+I’m working as Cloud Infrastructure Engineer, Backend Developer.
+Good skills in AWS (EKS, VPC, EC2, ALB, NLB, S3, Route53,...) and Azure cloud services.
+Programming language: Golang, Python.
+DevOps tools: K8S, Docker, HAproxy, CodeBuild, CodePipeline, Gitlab, Jenkins, ArgoCD.
+Linux system: OpenVPN, LDAP, Odoo, Terraform, Ansible, Bash,..
+Networking: Firewall (PFsense, Paloalto, TNSR, Mikrotik), Juniper, Cisco.
+Monitoring: ELK, Splunk, Prometheus, Grafana, New Relic, ...
+////////////////////////////////////////////////////////////
+Software Developer Golang Specialist
+$25.00/hr
+I am a Software Developer with massive 12 years open-source contribution and specialist in Go Programming Language, Blockchain ,Cloud Native development with Kubernetes.
+
+I've had experience building Cloud Native applications, Grpc ,Microservices and ReSTful APIs Application.
+
+I did a two summer internship at Google on project gocloud I created unified SDK for AWS and Google Cloud Platform in Go Programming Language.
+
+I am lead developer, maintainer, and contributor for open source projects picnic app ,Google harbourbridegrle ,gocloud, shelter associates, Dunner , cx, open source projects.
+
+I presented a talk on concurrency in Python at Pycon Delhi and Pycon south Africa.
+
+
+
+Accomplishments
+Mentor for Google summer of code 2023 at Google
+Mentor for Google summer of code 2022 at Google
+Mentor for Google summer of code 2021 at Google
+Mentor for Google summer of code 2020 at Google
+Mentor for Mentor for Google summer of code 2020 at Google summer of code 2019 at Google
+Intern for Google summer of code 2018 at Google
+Mentor for Google summer of code 2017 at Google
+Mentor for Google Code in 2018 at Google
+Mentor for Google Code in 2017 at Google
+got selected ACM ICPC Asia Regionals 2013.
+
+Open Source Contributions
+Mentor for Google summer of code 2019 at Google
+Intern for Google summer of code 2018 at Google
+Mentor for Google summer of code 2017 at Google
+Mentor for Google Code in 2018 at Google
+Mentor for Google Code in 2017 at Google
+got selected ACM ICPC Asia Regionals 2013.
+
+Certification
+Coursera : Specialization in Architecting with Google Kubernetes Engine
+Coursera : Specialization in Data Engineering with Google Cloud Professional
+Coursera - Programming with Google Go Specialization
+
+Skills
+Languages : Rust, Go Programming Language, Python, Swift
+
+Machine Learning: Tensorflow
+
+Devops: Docker, Kubernetes,
+
+Cloud computing: AWS, Google Cloud platform, Terraform
+
+Front end development Django
+/////////////////////////////////////////////////////////////////
+Solutions Architect (Golang | C# | NodeJS | React)
+$40.00/hr
+As a backend programmer with a strong background in building high traffic microservices, I have a proven track record of developing scalable solutions that can handle large volumes of traffic. My experience includes designing and implementing robust architectures(one such example was a service for handling and rendering large volumes of documents and giving users live preview), as well as working with various databases and cloud services. I am highly skilled at optimizing code for performance and efficiency, and I am always looking for ways to improve the scalability and reliability of my projects. Whether working on a small startup or a large enterprise, I am dedicated to delivering high-quality results that meet the needs of my clients.
+
+Backend: Golang, C#, C++, NodeJS, Python
+Frontend: React
+Tools: Docker, GIT, Google Chrome Headless, Go mobile
+Technologies: Redis, Elastic Search
+Operating Systems: Linux, Android, Windows
+Databases: PostgreSQL ,MySQL, MongoDB
+DevOps: AWS ECS, AWS EC2
+///////////////////////////////////////////////////
+Golang | Python | AI Dev
+$30.00/hr
+I am a senior Golang/Kubernetes developer with over 4 years of experience in developing complex and scalable applications. I have extensive experience in designing and developing microservices, building gRPC and RESTful APIs, and deploying containerized applications in Kubernetes clusters.
+
+I've had the privilege of working with renowned MNCs and even contributed to one of India's largest food delivery startups.
+
+My expertise spans a wide range of technologies, including:
+✔ GRPC & HTTP Frameworks
+✔ RESTful APIs
+✔ Kubernetes and Virtual Kubelets (Devops)
+✔ Databases (like DynamoDB, MySQL, Elasticsearch, and MongoDB)
+✔ Message Brokers (like Kafka and Amazon Simple Queue Service - SQS)
+✔ Monitoring and Metrics (Grafana & Prometheus using PromQL for querying & analyzing metrics)
+✔ Programming Languages including Golang, Java, and Python.
+✔ Bubble.io and its Responsive Web Design
+✔ Chat GPT (All models, including GPT-4), DALL-E 2, and OpenAI.
+✔ JIRA
+✔ Git
+
+I thrive on challenges and am dedicated to driving innovation. Please don't hesitate to reach out to me anytime. I'm more than happy to assist!
+
+Best regards,
+Anmol.
+less
+
+Architect & Senior Go Golang / Backend Developer
+$60.00/hr
+I am a Senior Golang Developer specializing in Full-Stack with a focus on building intuitive and effective 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 in Golang, Nodejs, Python, Ruby and React/Vue using best practices and common design patterns. I am a problem solver, architect and have more than 7 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲.
+
+Experienced in building parallel and distributed processing systems based on highload lowlatency database systems and throughout my career, I have honed my technical leadership skills and developed a knack for effective communication and engaging presentations. My ability to learn quickly and my expertise working collaboratively across diverse geographical locations set me apart in this fast-paced industry.
+
+I have been a valuable contributor in the end-to-end development of various products. I have taken ownership of the entire process, starting with defining system requirements and managing partner dependencies to implementing efficient software, conducting thorough testing, and finally, monitoring performance through metrics, alarms, and dashboards.
+
+Technical Skills:
+- Go, Python, Javascript, Node.js, Tensorflow, Keras, NumPy, Serverless Frameworks, Docker, Terraform, Ansible, Kubernetes, Jenkins, Spinnaker, GitOps, DataOps, AWS. GCP, Azure, JAMstack, GraphQL, MEAN Stack, React, Redux, ES6, Express, MongoDB, Redis, Linux, Etcd, Consul, Kinesis, Redshift, DynamoDB, Spark, Hadoop, Kafka, PostgreSQL, MySQL, ELK, Sass, Webpack, Gulp, Git, Ethereum, Solidity, OpenZeppelin, Flask, Redis, NATS, NSQ, AWS, GCP, Heroku, DigitalOcean, Twillio, Shopify, and Django
+
+
+𝗞𝗲𝘆𝘄𝗼𝗿𝗱𝘀: Golang, Go, Node.js Developer, Express.js, RESTful APIs, Real-time applications, Asynchronous programming, Node.js frameworks, NPM, Server-side JavaScript, Microservices architecture, TypeScript, Angular CLI, Single Page, GraphQL Schema, Ecto Database Specialist, Microservices Architect, WebSockets Guru, Progressive Web App (PWA) Artisan, OAuth 2.0 Specialist, Git Version Control Virtuoso, Continuous Integration (CI/CD) Connoisseur, WebAssembly Enthusiast, Progressive Enhancement Prodigy, Responsive Design Authority, Web Accessibility Advocate, Elixir Testing Aficionado, DevOps Virtuoso, Agile Development Prodigy, Scrum Master, Kanban Maestro, Code Review Guru, Technical Documentation Virtuoso, Open Source Contributor, Code Optimization Maestro, Performance Tuning Specialist, DevSecOps Advocate, API Gateway Expertise, Serverless Computing Guru, Lambda Functions Virtuoso, Infrastructure as Code (IaC) Specialist, GraphQL Federation Connoisseur, Web3.0 Enthusiast, Decentralized Applications (DApps) Authority, Solidity Smart Contracts Maestro, Tokenomics Expert, DeFi (Decentralized Finance) Aficionado, Cybersecurity Guru, Blockchain Enthusiast, Smart Contract Auditing Specialist, AI/ML Integration Maestro, Chatbot Development Prodigy, Reinforcement Learning Aficionado, IoT (Internet of Things) Specialist, Edge Computing Enthusiast, Quantum Computing Guru.
+less
+/////////////////////////////////////////////////////////////////////////////////
+Senior Backend Developer | Expertise in Golang | Python | Java | JS
+$18.00/hr
+Hi! I am a senior software engineer with over five years of professional experience developing robust and scalable systems specializing in Backend Development. 
+
+Here's an overview of my skills and expertise:
+
+• Proficient in Golang, Java (Spring Boot), Node.js(Express.js, NestJs), and Python(Flask, Django) focusing on building scalable and efficient backend systems.
+
+• Experienced in developing RESTful APIs, microservices architecture, and server-side applications.
+
+• Skilled in database design, optimization, and administration, with expertise in SQL and NoSQL databases.
+
+• Familiar with technologies like Redis for caching and improving application performance.
+
+• Proficient in authentication and authorization systems, including Auth0 and OAuth2/OpenID Connect.
+
+• Experienced in event-driven architectures and message brokers like Apache Kafka.
+
+• Proficient in cloud platforms like AWS for building scalable and reliable applications.
+
+• Proficient in deploying and managing applications using containerization technologies like Docker and orchestration tools like Kubernetes.
+
+• Skilled in modern frontend frameworks like React.js and Vue.js for building responsive and interactive user interfaces, leveraging JavaScript, HTML, and CSS.
+
+• Experienced in continuous integration and deployment (CI/CD) processes to ensure smooth and efficient software delivery, Using GitHub actions, Jenkins, and Gitlab ci/cd.
+
+I am a dedicated and detail-oriented professional, with a proven track record of delivering high-quality work on time. 
+
+Thank you for taking the time to visit my profile, I am excited to discuss how I can contribute to the success of your project!

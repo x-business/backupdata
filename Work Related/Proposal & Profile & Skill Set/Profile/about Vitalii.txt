@@ -1,0 +1,37 @@
+Vitalii Kubyshkin     feburary 14. 2002
+
+Kharkiv National University of Radioelectronics
+
+Bachelor of Science in Information Technology, Computer science
+2019-2022
+
+
+Software Engineer, Intern | POLYTECH SOFTWARE July 2022   -   March 2023
+
+-Applied hands on learning and agile development to build a full MERN stack applications.
+-Created and debugged AngularJS, React.js, Javascript, Typescript, Mongo, and NodeJS code
+-Assisted senior developers in implementing APIs with Node.js, lowering
+the average server response time by 20 ms.
+-Utilizing Javascript, SAPui5, NodeJS, HANA, React.js and Vue.js to display data from third-party and company's API
+-Brainstorming solutions to complete MVC application based on wireframes and sketches by the client feedback.
+-Gained experience with various web development tools including Bower, NPM, Git, Nodemailer, Gulp, Crypto, and Heroku.
+-Explored DevOps principles by automating infrastructure provisioning with Terraform and configuring deployment pipelines with Jenkins.
+-Actively participated in Agile development processes, contributing to sprint
+planning, stand-up meetings, and code reviews to foster team collaboration and
+product quality.
+
+Junior Full Stack Developer POLYTECH SOFTWARE March 20223 | present
+
+-Contributed to the development of a scalable backend for an e-commerce platform, handling product listings, user accounts, and order processing with Golang and Python.
+-Developed feature-rich web applications with React.js and Redux, leveraging component-based architecture for modular and reusable UI components.
+-Worked with MongoDB, PostgreSQL to design, implement, and optimize database schemas for storing and retrieving application data.
+-Assisted in the installation, configuration, and maintenance of Linux servers (primarily Ubuntu and CentOS).
+-Integrated RESTful API services that enhanced data interchange between the client's platforms and third-party financial services, increasing data accuracy by 40%
+-Implemented serverless functions with AWS Lambda to handle asynchronous tasks and improve scalability.
+-Adopted containerization with Docker for application packaging and deployment, ensuring consistency across development
+
+
+
+
+
+Junior Full Stack developer 

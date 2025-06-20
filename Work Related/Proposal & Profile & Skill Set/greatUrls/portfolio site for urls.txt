@@ -1,0 +1,50 @@
+https://andrejgajdos.com/
+https://donprasetiyo.vercel.app/
+
+- https://sayvero.com/ 
+Vero automates the leasing process. With over tens of thousands of properties, I was the lead front-end engineer who developed most of the core framework for their redesigned web application. 
+I worked closely with the design and back-end team, directed the front-end team, and played a major role in engineering decisions.
+React.js
+Redux
+redux-saga
+Emotion Styled Components
+Ant Design
+Jest
+React Testing Library
+axios
+Formik
+REST
+Python
+Django
+PostgreSQL
+MJML
+
+- https://www.phidata.com/
+I was the lead front-end engineer at Phidata, where I spearheaded their web app for monitoring and managing AI apps. Initially the front-end was in very poor shape and I was hired to take charge. I completed the core MVP, which was also crucial for attaining future funding. I redesigned the web app from scratch to give it the aesthetic edge it needed to succeed, and also rewrote most of the codebase to improve maintainability, performance, and security–especially as the users and size of the team scales. Prior to joining Phidata there were no more than a few hundred GitHub stars. After my marketing, design, and product suggestions were implemented, it skyrocketed to over 11k stars, trending on GitHub multiple times.
+
+Next.js 14
+React.js
+TypeScript
+Tailwind CSS
+shadcn/ui
+Radix UI
+React Query
+Framer Motion
+Stripe
+Formik
+yup
+NextAuth.js
+Vercel
+
+- https://codefishstudio.com/
+
+- https://stableoutput.com/
+A bring-your-own-API-key, chat client for OpenAI and Anthropic models.
+Made with: Remix.run (the SSR React framework) for the frontend, Postgres for the database, Nestjs with TRPC for the backend, user authentication with Lucia, and Docker for deployment in an Ubuntu server. All in a single monorepo with Turborepo. Additionally, Tailwind for styling, Typescript for type-check, and Github Actions for automated CI/CD.
+
+Developed a lifetime license payment system using PayPal, enabling users to unlock exclusive features and extended limits with a one-time payment.
+Designed and implemented a subscription management system with PayPal, supporting monthly extensions, subscription-specific features and limits, and real-time cancellation and renewal handling via webhook integration.
+Created a billing management feature, including client-side processed invoices, downloadable receipts, and detailed billing history.
+Built an advanced chat assistant supporting model selection from OpenAI to Anthropic, letting users use their API keys which are stored securely in localStorage for direct API calls on the browser while persisting chat data, settings, and files on the server.
+Integrated Google SSO authentication for user registration and login processes.
+Developed an admin dashboard for managing business-critical configurations, including user subscription plans, license-based feature access, and pricing adjustments.
