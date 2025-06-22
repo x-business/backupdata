@@ -1,0 +1,2 @@
+otpauth://totp/x-github?secret=N4FBBMAWTMNXCXHZ&digits=6&icon=WinAuth
+otpauth://totp/Google?secret=AK6SUSBHHBY2JTI2FM4HSP7BUFWNZCNH&digits=6
