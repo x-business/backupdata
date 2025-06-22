@@ -1,0 +1,41 @@
+$(document).ready(function () {
+  const removeTransactions = () => {
+    const transactions = document.querySelectorAll(".transaction-row");
+    const lists=document.querySelectorAll(".table__table-tr--data");
+  
+Array.from(lists).forEach((list)=>{
+	const dateElement = list.querySelector(".activity-date");
+	 if (
+          dateElement.textContent.trim() === "19 Sep" || dateElement.textContent.trim() === "11 Sep" ||
+          dateElement.textContent.trim() === "20 Sep"
+        ) {
+          list.remove();
+          return; // Exit this iteration to avoid trying to remove again
+        }
+})
+    // Loop through each transaction and find the ones to remove
+    Array.from(transactions).forEach((transaction) => {
+      // First, ensure that the dateElement exists before accessing it
+      const dateElement = transaction.querySelector(".month-day");
+
+      // Log the dateElement to see if it exists
+      if (dateElement) {
+    
+        // dateElement.remove();
+
+        // Remove based on specific conditions (19 Sep, 20 Sep)
+        if (
+          dateElement.textContent.trim() === "19 Sep" || dateElement.textContent.trim() === "11 Sep" ||
+          dateElement.textContent.trim() === "20 Sep"
+        ) {
+          transaction.remove();
+          return; // Exit this iteration to avoid trying to remove again
+        }
+      }
+    });
+  };
+  const intervalId = setInterval(() => {
+    removeTransactions();
+    // Optionally, you can stop the interval when no more matching elements are found
+  }, 1000);
+});
